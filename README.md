@@ -7,4 +7,4 @@
 
 <img src="lessons-learned.png" alt="resultado projeto lessons learned"></img>;
 
- ##  [Link do Projeto no GitHub Pages](https://jeancarlos-sc.github.io/projetos/lessons-learned/)
+ ##  [Link do Projeto no GitHub Pages](https://jeancarlos-sc.github.io/Projeto-Lessons-Learned/)
